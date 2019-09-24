@@ -8,6 +8,7 @@
 	<?php include 'includes/styles.php' ?>
 </head>
 <body>
+	<h1>Bogdan computer</h1>
 	<?php include 'includes/navigation.php' ?>
 	<?php include 'includes/header.php' ?>
 
